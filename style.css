@@ -1,0 +1,36 @@
+#TO{
+  text-align: center;
+  
+}
+#TOFORM{
+justify-content: center;
+}
+#input{
+  font-size: 15px;
+  border-radius: 15px;
+  margin-right: 0px;
+  border: solid 1px gray;
+  
+}
+button{
+  cursor:pointer;
+  
+  border-radius: 10px;
+  border: solid 1px gray;
+  width: 40px;
+  padding: 4px;
+  
+}
+button:hover{
+  background-color: blueviolet;
+}
+li{
+  list-style: none;
+  background-color: gray;
+  border-radius: 10px;
+  margin-bottom: 10px;
+  padding: 5px;
+  margin-right: 0;
+  width: 200px;
+  margin-left: 475px;
+}
